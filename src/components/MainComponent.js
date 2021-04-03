@@ -9,7 +9,6 @@ const MainComponent = ()=>{
             <Header />
             <Body />
             <Footer />
-
         </div>
     )
 }
